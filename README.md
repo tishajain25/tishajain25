@@ -36,11 +36,19 @@ Here are some ideas to get you started:
   Hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  
+  </div>
+
   ---
 
 ### :woman_technologist: About Me :
-  
+  A Sophomore at UPES Dehradun seeking a degree in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a focus on OSS. I am a Content Writer and Open Source enthusiast.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I watch Sci-fi movies and write tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tisha-blue?style=flat&logo=Linkedin&logoColor=white)](https://twitter.com/jaintisha25?t=xQnOmn7wQSKO-5UsetT82Q&s=09)
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -55,12 +63,13 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="60" height="60"/>&nbsp;
 </div>
-  ---
+  
+   ---
 
 ### :fire: My Stats :
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tishajain25&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tishajain25&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
