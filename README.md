@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   ---
 
 ### :woman_technologist: About Me :
-  A Sophomore at UPES Dehradun seeking a degree in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a focus on OSS. I am a Content Writer and Open Source enthusiast.
+  A Sophomore at UPES Dehradun seeking a degree in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a focus on OSS. I am a Content Writer and an Open Source enthusiast.
 
 - :seedling: Exploring Technical Content Writing.
 
