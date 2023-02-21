@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I watch Sci-fi movies and write tech articles.
 
-- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-tisha-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tisha-jain-a06323233/)
+- :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-tisha-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tisha-jain-a06323233/)
 
  ---
 
