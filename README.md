@@ -41,9 +41,9 @@ Here are some ideas to get you started:
   ---
 
 ### :woman_technologist: About Me :
-  A final year student at UPES Dehradun seeking a degree in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a focus on OSS. I am a Content Writer and an Open Source enthusiast.
+  A final year student at UPES Dehradun seeking a degree in Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a focus on OSS. I am working as an AI Developer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring AI, Web Development & Technical Content Writing.
 
 - :zap: In my free time, I watch Sci-fi movies and write tech articles.
 
