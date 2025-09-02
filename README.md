@@ -8,16 +8,12 @@
   <h3>AI & Frontend Developer | Web Enthusiast | Technical Writer</h3>
   
   <div>
-    <a href="https://www.linkedin.com/in/tisha-jain-a06323233/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-   <a href="https://tishajain.dev">
-  <img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-  </div>
-  
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=tishajain25&style=for-the-badge&color=blue" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/tisha-jain-a06323233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tishajain.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </div>
 
 ---
