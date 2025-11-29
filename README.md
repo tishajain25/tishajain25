@@ -5,7 +5,7 @@
   <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
   
   <h1>Hey there 👋, I'm <span style="color:#4CAF50">Tisha Jain</span></h1>
-  <h3>AI & Frontend Developer | Web Enthusiast | Technical Writer</h3>
+  <h3>Full Stack AI Developer | Web Enthusiast | Technical Writer</h3>
   
   <div>
     <a href="https://www.linkedin.com/in/tisha-jain-a06323233/">
