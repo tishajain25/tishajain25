@@ -48,10 +48,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tishajain25&theme=dark&background=000000" alt="GitHub Streak" height="180"/>  
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tishajain25&layout=compact&theme=vision-friendly-dark" height="180"/>  
-  
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tishajain25&theme=dark" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tishajain25&layout=compact&theme=dark" height="180"/>
+</p>
+
