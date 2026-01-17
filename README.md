@@ -50,7 +50,7 @@
 
 <div align="center">
   
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tishajain25&theme=dark&background=000000" alt="GitHub Streak" height="180"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tishajain25&theme=dark&background=000000" alt="GitHub Streak" height="180"/>  
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tishajain25&layout=compact&theme=vision-friendly-dark" height="180"/>  
   
