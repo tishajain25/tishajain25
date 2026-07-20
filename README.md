@@ -24,7 +24,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 **B.Tech CSE Graduate** from UPES Dehradun (CGPA: 9.1/10)  
-- 💼 Currently working as an **Full Stack AI Developer**  
+- 💼 Currently working as a **Full Stack AI Developer**  
 - 🚀 Passionate about building **AI-driven applications** and **modern web platforms**  
 - ✍️ Also a **technical writer**, co-authored a **DevOps Book**  
 - 🌱 Currently exploring **Generative AI, Cloud, and Full Stack Development**  
